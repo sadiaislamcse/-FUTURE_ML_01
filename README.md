@@ -2,7 +2,7 @@
 
 ## 🔍 Project Overview
 
-Retail businesses rely heavily on accurate sales predictions to manage inventory, plan marketing, and optimize resources. In this project, we:
+Retail businesses rely heavily on accurate sales predictions to manage inventory, plan marketing, and optimize resources. In this project, I does:
 
 - Cleaned and analyzed historical sales data
 - Built forecasting models using:
