@@ -1,6 +1,6 @@
 # -FUTURE_ML_01
 
-##🔍 Project Overview
+## 🔍 Project Overview
 
 Retail businesses rely heavily on accurate sales predictions to manage inventory, plan marketing, and optimize resources. In this project, we:
 
@@ -10,7 +10,7 @@ Retail businesses rely heavily on accurate sales predictions to manage inventory
   - **Linear Regression** – for identifying long-term sales patterns
 - Visualized model predictions and evaluated their accuracy
 
-##🧠 Task Focus
+## 📌 Task Focus
 Perform time series forecasting on retail sales data
 - Compare machine learning models for prediction performance
 - Visualize sales trends, seasonality, and forecast accuracy
